@@ -1,0 +1,4 @@
+- 👋 Olá meu nome é @JOAOEDUARDO2007
+- 👀 Meu e-mail pessoal é joao.guimaraes25@escola.pr.gov.br
+- 🌱 Estou interessado em aprender a programar novas linguagens 
+- 💞️ Estou aprendendo a programar recentemente a linguagem em JavaScript e Scratch
